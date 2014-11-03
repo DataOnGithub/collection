@@ -87,3 +87,6 @@ Tate offers the Metadata as-is and makes no representations or warranties of any
 The writers of these guidelines are deeply indebted to the [Smithsonian Cooper-Hewitt, National Design Museum](http://www.cooperhewitt.org/); and [Europeana](http://www.europeana.eu/).
 
 
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/collection/view/5457a74d01cc7)
